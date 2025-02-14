@@ -1,1 +1,1 @@
-1.users can enter this lottery
+众筹合约实例
